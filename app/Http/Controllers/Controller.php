@@ -118,8 +118,6 @@ return response()->json($movies);
     END
    ");
 
-
-
         return response('success', 200);
     }
 
